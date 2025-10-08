@@ -3,7 +3,7 @@
   "outputDirectory": "dist",
   "framework": "vite",
   "functions": {
-    "api/scrape-maps.ts": {
+    "api/scrape-maps.js": {
       "maxDuration": 30
     }
   },
